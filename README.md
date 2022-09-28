@@ -1,2 +1,5 @@
-# CodeClause_ChatBot
+# Yossef Essam Fouad
+# CodeClause : ChatBot
+# IDE : PyCharm 
+# Language : Python 
  
